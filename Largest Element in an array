@@ -19,3 +19,4 @@ int main() {
 }
 
 output-5
+time complexity:O(n)
